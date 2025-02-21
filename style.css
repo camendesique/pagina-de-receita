@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  padding: 0:
+  padding: 0;
 }
 
 :root {
@@ -54,3 +54,11 @@ ul {
   padding-left: 20px;
 }
 
+footer {
+  padding-bottom: 40px;
+  color: black;
+  text-align: center;
+  font-weight: 500;
+  font-size: medium;
+  padding-top: 24px;
+}
